@@ -1,0 +1,59 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 5
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "The Aesthetic Arien Girl"
+  subtitle    = ""
+
+  cover       = "Cover Images/dev_cover2.jpeg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  fbName = "priya.raj.5074644"
+  instagramName = "priyaraj7"
+
+  logo = "Logo/logo.png"
+  orgName = "The Aesthetic Arien Girl"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "Priya Raj"
+  authorAvatar = "Profile Pictures/profile_picture.jpeg"
+  authorLocation = "Bangalore, India"
+  authorWebsite = "https://eueung.github.io"
+  authorDescription = "Fashion Blogger"
+
+  pageNotFoundTitle = "Page Not Found!"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1000
+
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 950
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 900
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 800
