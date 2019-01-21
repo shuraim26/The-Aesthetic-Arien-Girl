@@ -481,6 +481,14 @@ body {
     top: -70px;
   }
 }
+.site-header-wo {
+  position: relative;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: #fff;
+  background: #090a0b no-repeat 50%;
+  background-size: cover;
+}
 .site-header {
   position: relative;
   padding-top: 12px;
@@ -488,6 +496,7 @@ body {
   color: #fff;
   background: #090a0b no-repeat 50%;
   background-size: cover;
+  background-image: url("../Cover Images/dev_cover2.jpeg");
 }
 .site-header:before {
   bottom: 0;
