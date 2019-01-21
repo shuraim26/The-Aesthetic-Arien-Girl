@@ -21,7 +21,7 @@ paginate        = 5
 
   logo = "Logo/logo.png"
   orgName = "The Aesthetic Arien Girl"
-  orgWebsite = "https://www.telematika.org"
+  orgWebsite = "/"
   orgDescription = "Here is a description placeholder for your org"
 
   author = "Priya Raj"
