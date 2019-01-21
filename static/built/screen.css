@@ -1,3 +1,17 @@
+@font-face {
+  font-family: GreatDay;
+  src: url("../Fonts/Great Day/GreatDay.ttf");
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url("../Fonts/Roboto/Roboto-Black.ttf");
+}
+
+* {
+  font-family: Roboto;
+}
+
 a,
 abbr,
 acronym,
@@ -519,6 +533,7 @@ body {
   padding: 0;
   font-size: 3.8rem;
   font-weight: 700;
+  font-family: GreatDay;
 }
 .site-logo {
   max-height: 200px;
@@ -892,6 +907,7 @@ body {
 .post-full-title {
   margin: 0;
   color: #090a0b;
+  font-family: GreatDay;
 }
 .date-divider {
   display: inline-block;
