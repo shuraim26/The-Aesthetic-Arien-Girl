@@ -10,7 +10,7 @@ type = "page"
 weight = 850
 +++
 
-<img src="/profile_picture.jpeg" style="height:400px;width:400px;border-radius: 50%;">
+<img src="./profile_picture.jpeg" style="height:400px;width:400px;border-radius: 50%;">
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
