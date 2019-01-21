@@ -1,6 +1,6 @@
 +++
 share = false
-title = "About me"
+title = "About Me"
 type = "page"
 [menu.main]
 weight = 850
