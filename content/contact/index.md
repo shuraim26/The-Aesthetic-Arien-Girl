@@ -3,7 +3,7 @@ date = "2019"
 title = "Get in Touch"
 +++
 
-<form method="post" name="contact">
+<form method="post" name="contact" netlify>
     <label for="name">Name: </label>
     <br>
     <input type="text" id="name" name="name" placeholder="Enter your Name">
