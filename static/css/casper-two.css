@@ -1,3 +1,12 @@
+@font-face {
+  font-family: Roboto;
+  src: url("../Fonts/Roboto/Roboto-Black.ttf");
+}
+
+* {
+  font-family: Roboto;
+}
+
 .pagination {
   position: relative;
   width: 100%;
