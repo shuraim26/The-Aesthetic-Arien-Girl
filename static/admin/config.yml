@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master
 
-media: "static/Post Images"
+media_folder: "static/Post Images"
 public_folder: "Post Images"
 
 collections:
