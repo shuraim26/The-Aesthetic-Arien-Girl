@@ -21,13 +21,13 @@ paginate        = 5
 
   logo = "Logo/logo.png"
   orgName = "The Aesthetic Arien Girl"
-  orgWebsite = "/"
-  orgDescription = "Here is a description placeholder for your org"
+  orgWebsite = "https:/www.theaestheticariengirl.com"
+  orgDescription = "Fashion Blogger"
 
   author = "Priya Raj"
   authorAvatar = "Profile Pictures/profile_picture.jpeg"
   authorLocation = "Bangalore, India"
-  authorWebsite = "https://eueung.github.io"
+  authorWebsite = "https:/www.theaestheticariengirl.com"
   authorDescription = "Fashion Blogger"
 
   pageNotFoundTitle = "Page Not Found!"
@@ -36,7 +36,7 @@ paginate        = 5
   singleViewStyle = "casper"
 
 [permalinks]
-  post = "/:slug/"
+  post = "/post/:slug/"
 
 [[menu.main]]
   name = "Home"
