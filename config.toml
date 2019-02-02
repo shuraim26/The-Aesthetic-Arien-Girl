@@ -5,6 +5,9 @@ disqusShortname = ""
 paginate        = 5
 #SectionPagesMenu = "main"
 
+enableRobotsTXT = true
+canonifyURLs = true
+
 [params]
   title       = "The Aesthetic Arien Girl"
   subtitle    = ""
@@ -36,7 +39,7 @@ paginate        = 5
   singleViewStyle = "casper"
 
 [permalinks]
-  post = "/post/:slug/"
+  post = "/post/:title/"
 
 [[menu.main]]
   name = "Home"
