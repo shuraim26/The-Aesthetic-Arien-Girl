@@ -23,6 +23,7 @@ canonifyURLs = true
   instagramName = "priyaraj7"
 
   logo = "Logo/logo.png"
+  logo2 = "Logo/logo_black.png"
   orgName = "The Aesthetic Arien Girl"
   orgWebsite = "https:/www.theaestheticariengirl.com"
   orgDescription = "Fashion Blogger"
