@@ -14,9 +14,6 @@ tags:
 <div style="overflow: hidden;padding-bottom: 56.25%;position: relative;height: 0;"><iframe style="left: 0;top: 0;height: 100%;width: 100%;
         position: absolute;" width="853" height="505" src="https://www.youtube.com/embed/7KF8J3z4enY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<div style="overflow: hidden;padding-bottom: 56.25%;position: relative;height: 0;"><iframe style="left: 0;top: 0;height: 100%;width: 100%;
-        position: absolute;" width="853" height="505" src="https://www.youtube.com/embed/7KF8J3z4enY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 Reponit iram ex granum minores auctor mea
 
 ## Negaverit ceris arcuerat inlita arce quam exaudi
