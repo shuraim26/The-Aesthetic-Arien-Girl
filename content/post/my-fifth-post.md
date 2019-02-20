@@ -11,7 +11,7 @@ tags:
   - weekend
   - life
 ---
-youtube watch?v=7KF8J3z4enY
+youtube 7KF8J3z4enY
 
 Reponit iram ex granum minores auctor mea
 
