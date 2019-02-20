@@ -64,5 +64,3 @@ Cruentae nunc mortalia! Te gestamina victima firmo. Iungit [virgo caelestibus
 declive](http://loqui.org/) atque. Consiliis praeceps amantem primum; similis
 enim. Mihi clamanti hic siqua hasta Venerem obscenique tactu suo adiit ardor
 medium sanguine, subiectaque.
-
-youtube 7KF8J3z4enY
