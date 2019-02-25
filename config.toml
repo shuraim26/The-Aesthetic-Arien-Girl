@@ -24,6 +24,7 @@ canonifyURLs = true
 
   logo = "Logo/logo.png"
   logo2 = "Logo/logo_black.png"
+  logo3 = "Logo/logo_new.png"
   orgName = "The Aesthetic Arien Girl"
   orgWebsite = "https:/www.theaestheticariengirl.com"
   orgDescription = "Fashion Blogger"

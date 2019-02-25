@@ -542,9 +542,9 @@ body {
   font-family: GreatDay;
 }
 .site-logo {
-  max-height: 200px;
+  width: 800px;
+  max-height: 500px;
   max-width: 1000px;
-  margin-top: 100px;
 }
 .site-description {
   z-index: 10;
