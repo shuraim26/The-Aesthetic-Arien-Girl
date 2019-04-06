@@ -1,7 +1,7 @@
 ---
 title: This is the test First Post
 date: 06 04 2019
-draft: true
+draft: false
 image: /Post Images/my-second-post.jpeg
 categories: General
 tags:
