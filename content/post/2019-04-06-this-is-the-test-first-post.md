@@ -1,6 +1,6 @@
 ---
 title: This is the test First Post
-date: 06 04 2019
+date: 2019-04-06
 draft: false
 image: /Post Images/my-second-post.jpeg
 categories: General
