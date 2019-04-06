@@ -8,9 +8,14 @@ weight = 850
 
 <img src="./profile_picture.jpeg" style="height:400px;width:400px;border-radius: 50%;">
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Yow !
+I am **Priya Sudhir Raj**, a 21 year old strong, positive and competitive *Aesthetic Arien*. 
+
+My motto has always been:
+
+> "Conquer the Universe, I love and will do it with my gesture"
+
+I believe in the personality of an individual is the dynamic way of his or her charismatic and idealistic way of carrying oneself, with an exotic composed gesture, that is charming and dominant. 
+
+If I had to define my style, it would probably be **Chic** and **Grunge**. This requires a sense of personal style with a blend of beauty to lead.
+
+***The Aesthetic Arien Girl*** is going to guide your way to look and feel classy with a twist of hood.
