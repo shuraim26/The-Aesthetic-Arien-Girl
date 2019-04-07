@@ -1,11 +1,16 @@
 ---
-title: This is the test First Post
-date: 2019-04-06
+title: The First Post
+date: '2019-04-07'
 draft: false
 image: /Post Images/my-second-post.jpeg
 categories: General
 tags:
-  - general
+  - Fashion
+  - Beauty
+  - Lifestyle
+  - DIY
+  - Makeup
+  - Blog
 ---
 After reading a million Blog posts and Articles on Fashion and Beauty, I can't believe I'm writing my very first post!!!!!!
 
