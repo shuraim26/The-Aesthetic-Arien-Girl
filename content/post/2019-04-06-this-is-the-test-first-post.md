@@ -2,7 +2,7 @@
 title: The First Post
 date: '2019-04-07'
 draft: false
-image: /Post Images/my-second-post.jpeg
+image: /Post Images/assorted-blurred-background-boutique-994523.jpg
 categories: General
 tags:
   - Fashion
